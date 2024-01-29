@@ -23,6 +23,8 @@ include("../src/css/input.php");
             <?php echo $inputText ?>
             <input type="submit" value="login" name="submit" id="submit"><br>
 
+            <p id="alreadyAccText">Already have an account? <a href="../error/error.html">Sign in</a>.</p>
+
             <!--user ellenorzes-->
             <?php echo $invalid; ?>
         </form>

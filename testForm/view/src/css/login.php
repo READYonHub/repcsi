@@ -39,5 +39,14 @@ $loginStyle = "
             box-shadow: inset 0px 3px 7px #3c4fe0;
             transform: translateY(2px);
         }        
+        #alreadyAccText{
+            padding: 3%;
+        }
+        #notData{
+            color: red;
+        }
+        #notData:hover{
+            font-size:18px;
+        }
 </style>
 ";
