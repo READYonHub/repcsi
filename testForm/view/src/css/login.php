@@ -9,6 +9,7 @@ $loginStyle = "
         margin-top: 60px;
         border-radius: 10px;
         box-shadow: 0 25.6px 57.6px 0 rgb(0 0 0 / 22%), 0 4.8px 14.4px 0 rgb(0 0 0 / 18%);
+        background-color: white;
     }
     #title{
         font-size 32px;

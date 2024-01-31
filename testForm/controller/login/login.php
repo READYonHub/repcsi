@@ -5,6 +5,7 @@ $pass = $_POST['pass'];
 
 $conn = mysqli_connect('localhost', 'root', '');
 
+
 //sikertelen adatbázis szerverhez kapcsolódás
 if (!$conn) {
     die('Kapcsolódási hiba: ' . mysqli_connect_error());
